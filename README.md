@@ -23,7 +23,7 @@ Skills:
   
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhireIghor&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -32,7 +32,7 @@ Skills:
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MuhireIghor&custom_title=MuhireIghor's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/MuhireIghor"><img alt="MuhireIghor's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MuhireIghor&custom_title=MuhireIghor's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
