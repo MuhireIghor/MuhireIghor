@@ -1,16 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MuhireIghor/MuhireIghor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on IHAHIRE TECHNOLOGIES...
-- 🌱 I’m currently learning .REACT..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...muhireighor123@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a MERN full-stack developer from Rwanda and open to job and I am gradually interested in Front-end development with the React Library and TailwindCSS 
+I am currently working on an e-commerce project to be released as soon as Possible People can reach me out via my LinkedIn account at :https://www.linkedin.com/in/muhire-igor-5610a422a/ for more details and conversations.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhireIghor&show_icons=true&theme=radical)
