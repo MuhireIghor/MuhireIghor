@@ -38,6 +38,9 @@ Skills:
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
+  <br/>
+  <a href="http://www.github.com/MuhireIghor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhireIghor&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <br/>
    <a href="https://github.com/MuhireIghor"><img alt="MuhireIghor's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MuhireIghor&custom_title=MuhireIghor's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
