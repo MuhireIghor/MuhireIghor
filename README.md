@@ -17,7 +17,7 @@ Skills:
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhireIghor&show_icons=true&theme=radical) -->
+
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhireIghor&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
@@ -31,7 +31,7 @@ Skills:
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhireIghor&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   </p>
 
 ----
