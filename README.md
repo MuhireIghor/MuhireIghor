@@ -1,5 +1,6 @@
- ### Hi there 👋
-
+   ### <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ighor Muhire+%F0%9F%91%8B;Computer+Science+Student;Full stack developer;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>
 I am a MERN full-stack developer from Rwanda and open to job and I am gradually interested in Front-end development with the React Library and TailwindCSS 
 I am currently working on an e-commerce project to be released as soon as Possible People can reach me out via my LinkedIn account at :https://www.linkedin.com/in/muhire-igor-5610a422a/ for more details and conversations.
 
