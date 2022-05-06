@@ -1,4 +1,4 @@
-   ### <div align=center>
+  <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Ighor Muhire+%F0%9F%91%8B;Computer+Science+Student;Full stack developer;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>
 I am a MERN full-stack developer from Rwanda and open to job and I am gradually interested in Front-end development with the React Library and TailwindCSS 
