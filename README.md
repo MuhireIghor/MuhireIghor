@@ -8,7 +8,7 @@ I am a MERN full-stack developer from Rwanda and open to job and I am gradually 
 I am currently working on an e-commerce project to be released as soon as Possible People can reach me out via my LinkedIn account at :https://www.linkedin.com/in/muhire-igor-5610a422a/ for more details and conversations.
 
 <br/>
-&nbsp;***My working tools...***
+&nbsp;<p size=20px >***My working tools...***</p>
 <p align="center">
 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
