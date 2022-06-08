@@ -9,7 +9,7 @@ I am currently working on an e-commerce project to be released as soon as Possib
 
 <br/>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="10px">&nbsp;***My working tools...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" >&nbsp;***My working tools...***
 <p align="center">
 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
