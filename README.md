@@ -8,8 +8,7 @@ I am a MERN full-stack developer from Rwanda and open to job and I am gradually 
 I am currently working on an e-commerce project to be released as soon as Possible People can reach me out via my LinkedIn account at :https://www.linkedin.com/in/muhire-igor-5610a422a/ for more details and conversations.
 
 <br/>
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" >&nbsp;***My working tools...***
+&nbsp;***My working tools...***
 <p align="center">
 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
@@ -24,7 +23,7 @@ I am currently working on an e-commerce project to be released as soon as Possib
 <!-- ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;</code> -->
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+<!--  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> -->
 
 ### 📊 Github Stats
 
