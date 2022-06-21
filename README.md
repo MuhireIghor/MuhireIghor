@@ -9,18 +9,17 @@ I am currently working on an e-commerce project to be released as soon as Possib
 
 <br/>
 &nbsp;<p size=20px >***My working tools...***</p>
-<p align="center">
-
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
-  <code>![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-<!-- ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;</code> -->
+<div style='display:block; flex-direction:column;'>
+<p align="left">
+<a style="margin:5px;" href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="36" height="36" alt="PHP" /></a><a style="margin:5px;" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="36" height="36" alt="HTML5" /></a><a style="margin:5px;" href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a><a style="margin:5px;" href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="36" height="36" alt="CSS3" /></a><a style="margin:5px;" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="TailwindCSS" /></a><a style="margin:5px;" href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="36" height="36" alt="Bootstrap" /></a><a style="margin:5px;" href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" alt="Material UI" /></a><a style="margin:5px;" href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="36" height="36" alt="Webpack" /></a><a style="margin:5px;" href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" /></a><a style="margin:5px;" href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="ExpressJS" /></a><a style="margin:5px;" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a><a style="margin:5px;" href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a><a style="margin:5px;" href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="36" height="36" alt="Heroku" /></a><a style="margin:5px;" href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="36" height="36" alt="Photoshop" /></a>
+  <a style="margin:5px;" href="#" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/npm/npm-original-wordmark.svg" width="36" height="36" alt="NPM" /></a>
+    <a style="margin:5px;" href="#" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
+  <a style="margin:5px;" href="#" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
+  <a style="margin:5px;" href="#" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="36" height="36" alt="jQuery" /></a>
+    <a style="margin:5px;" href="#" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" /></a>
+      <a style="margin:5px;" href="#" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="36" height="36" alt="jQuery" /></a>
+</p>
+</div>
   <hr>
   <p align="center">
 <!--  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> -->
