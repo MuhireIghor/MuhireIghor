@@ -60,7 +60,7 @@ I am currently working on an e-commerce project to be released as soon as Possib
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center" text='yellow'><img align="center" src="https://profile-counter.glitch.me/{MuhireIghor}/count.svg?size=22&color=F4F71E" /></p> 
+<p align="center" size=22&color=F4F71E><img align="center" src="https://profile-counter.glitch.me/{MuhireIghor}/count.svg" /></p> 
 <br></div>
 
 
