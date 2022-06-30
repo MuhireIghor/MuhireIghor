@@ -58,7 +58,10 @@ I am currently working on an e-commerce project to be released as soon as Possib
    <a href="https://github.com/MuhireIghor"><img alt="MuhireIghor's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MuhireIghor&custom_title=MuhireIghor's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MuhireIghor}/count.svg" /></p> 
+<br></div>
 
 
 
