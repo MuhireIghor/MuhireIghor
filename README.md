@@ -9,7 +9,7 @@ I am currently working on an e-commerce project to be released as soon as Possib
 <div style='display:flex; flex-direction:row; justify-content:space-around;'>
   <a style='margin-5px;' href="https://www.linkedin.com/in/muhire-igor-5610a422a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a style='margin-5px;' href="https://www.facebook.com/ighor.muhire" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-<a style='margin-5px;' href="https://www.github.com/MuhireIghor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a style='margin-15px;' href="https://www.github.com/MuhireIghor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a style='margin-5px;' href="https://www.instagram.com/ighormuhire/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="32" height="32" /></a>
 </div>
 
