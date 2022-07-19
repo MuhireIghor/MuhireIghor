@@ -6,6 +6,12 @@
     </div>
 I am a MERN full-stack developer from Rwanda and open to job and I am gradually interested in Web development with the ReactJs Nodejs and TailwindCSS PHP and Laravel 
 I am currently working on an e-commerce project to be released as soon as Possible People can reach me out via my LinkedIn account at :https://www.linkedin.com/in/muhire-igor-5610a422a/ for more details and conversations.
+<div style='display:flex; flex-direction:row;'>
+  <a style='margin-5px;' href="https://www.linkedin.com/in/muhire-igor-5610a422a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a style='margin-5px;' href="https://www.facebook.com/ighor.muhire" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<a style='margin-5px;' href="https://www.github.com/MuhireIghor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a style='margin-5px;' href="https://www.instagram.com/ighormuhire/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="32" height="32" /></a>
+</div>
 
 <br/>
 &nbsp;<p size=20px >***My working tools...***</p>
