@@ -4,7 +4,7 @@
     </br>
     <br>
     </div>
-I am a MERN full-stack developer from Rwanda and open to job and I am gradually interested in Front-end development with the React Library and TailwindCSS 
+I am a MERN full-stack developer from Rwanda and open to job and I am gradually interested in Web development with the ReactJs Nodejs and TailwindCSS PHP and Laravel 
 I am currently working on an e-commerce project to be released as soon as Possible People can reach me out via my LinkedIn account at :https://www.linkedin.com/in/muhire-igor-5610a422a/ for more details and conversations.
 
 <br/>
