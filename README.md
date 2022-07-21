@@ -49,7 +49,7 @@ I am currently working on an e-commerce project to be released as soon as Possib
   
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhireIghor&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	  <a href="https://github.com/MuhireIghor" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhireIghor&langs_count=6&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=6%20%Top%20%Languages&hide=php,html,Less,SCSS,CSS" alt="Top Languages" /></a>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   </p>
