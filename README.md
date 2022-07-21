@@ -37,7 +37,7 @@ I am currently working on an e-commerce project to be released as soon as Possib
 
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <b>💻 GitHub Profile Stats</b>
   <br/>
 
 
@@ -46,17 +46,11 @@ I am currently working on an e-commerce project to be released as soon as Possib
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhireIghor&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
 
-<br>
+<hr>
 
-  <p align="center">
   
-<br/>
-  &nbsp;
-	  <a href="https://github.com/MuhireIghor" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhireIghor&langs_count=6&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=6%20%Top%20%Languages&hide=SCSS" alt="Top Languages" /></a>
-  <br/>
-<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-  </p>
-
+<a href="https://github.com/MuhireIghor" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhireIghor&langs_count=6&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=6%20%Top%20%Languages&hide=SCSS" alt="Top Languages" /></a>
+  <hr>
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
@@ -64,6 +58,8 @@ I am currently working on an e-commerce project to be released as soon as Possib
   <br/>
   <a href="http://www.github.com/MuhireIghor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhireIghor&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   <hr>
+  <br/>
+  <br/>
    <a href="https://github.com/MuhireIghor"><img alt="MuhireIghor's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MuhireIghor&custom_title=MuhireIghor's%20Contribution%20Graph&theme=react-dark" /></a>
   <hr>
 
