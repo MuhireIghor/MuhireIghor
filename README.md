@@ -4,6 +4,7 @@
     </br>
     <br>
     </div>
+    <hr>
 I am a MERN full-stack developer from Rwanda and open to job and I am gradually interested in Web development with the ReactJs Nodejs and TailwindCSS PHP and Laravel 
 I am currently working on an e-commerce project to be released as soon as Possible People can reach me out via my LinkedIn account at :https://www.linkedin.com/in/muhire-igor-5610a422a/ for more details and conversations.
 <div style='display:flex; flex-direction:row; justify-content:space-around;'>
@@ -60,11 +61,11 @@ I am currently working on an e-commerce project to be released as soon as Possib
   <br/>
   <br/>
   <a href="http://www.github.com/MuhireIghor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhireIghor&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  <br/>
+  <hr>
    <a href="https://github.com/MuhireIghor"><img alt="MuhireIghor's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MuhireIghor&custom_title=MuhireIghor's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  <hr>
 
-<div align="center">
+<div align="left">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center" size=22&color=F4F71E><img align="center" src="https://profile-counter.glitch.me/{MuhireIghor}/count.svg" /></p> 
 <br></div>
