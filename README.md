@@ -49,7 +49,7 @@ I am currently working on an e-commerce project to be released as soon as Possib
 <hr>
 
   
-<a href="https://github.com/MuhireIghor" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhireIghor&langs_count=6&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=6%20%Top%20%Languages&hide=SCSS HTML" alt="Top Languages" /></a>
+<a href="https://github.com/MuhireIghor" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhireIghor&langs_count=6&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=6%20%Top%20%Languages&hide=SCSS&&HTML" alt="Top Languages" /></a>
   <hr>
 ----
 
