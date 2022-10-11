@@ -5,8 +5,8 @@
     <br>
     </div>
     <hr>
-I am a MERN full-stack developer from Rwanda and open to job and I am gradually interested in Web development with the ReactJs Nodejs and TailwindCSS PHP and Laravel 
-I am currently working on an e-commerce project to be released as soon as Possible People can reach me out via my LinkedIn account at :https://www.linkedin.com/in/muhire-igor-5610a422a/ for more details and conversations.
+I am a MERN full-stack developer from Rwanda and open to job and I am gradually interested in Web development with the ReactJs Nodejs Express js ,Nestjs,Angular and TailwindCSS PHP and Laravel 
+People can reach me out via my LinkedIn account at :https://www.linkedin.com/in/muhire-igor-5610a422a/ for more details and conversations.
 <br /><br /><br />
 <hr>
 <div >
