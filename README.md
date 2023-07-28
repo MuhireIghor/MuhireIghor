@@ -5,8 +5,11 @@
     <br>
     </div>
     <hr>
-I am a MERN full-stack developer from Rwanda and open to job and I am gradually interested in Web development with the ReactJs Nodejs Express js ,Nestjs,Angular and TailwindCSS PHP and Laravel 
-People can reach me out via my LinkedIn account at :https://www.linkedin.com/in/muhire-igor-5610a422a/ for more details and conversations.
+I am an experienced full stack developer with four years of expertise in web application development. Skilled in Reactjs, Nextjs, and Vuejs for front-end, and Nodejs and Spring Boot for back-end. I prioritize user experience, crafting dynamic and responsive interfaces. Continuously learning to stay updated with industry trends, I excel in problem-solving and attention to detail. With effective communication and collaboration skills, I contribute to positive work environments. My goal is to deliver cutting-edge web applications that leave a lasting impact on users and businesses alike, offering high-quality and tailored solutions for each project.
+For more details You can reach me on various Platforms:
+##Linkedin:https://linkedin.com/in/MuhireIghor
+##Email:muhireighor123@gmail.com
+##Contacts:+250791903113/+250798486619
 <br /><br /><br />
 <hr>
 <div >
