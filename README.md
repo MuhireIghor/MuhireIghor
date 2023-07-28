@@ -30,13 +30,16 @@ For more details You can reach me on various Platforms: 😎👌<br />
   <p align="center">
 <!--  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> -->
 
-<b>Github Stats 💹<b>
+<b>Github Stats 💹<b><br /> <br/>
   <b>GitHub Profile Stats</b>
-  <br/>
 <br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhireIghor&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+    alt="adam-pw" /></p> <br/>
 <hr> 
+<b>Top Languages 👩‍💻</b>
+<br /><br />
+
 <a href="https://github.com/MuhireIghor" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhireIghor&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=10%20%Top%20%Languages&hide=SCSS,HTML,CSS" alt="Top Languages" /></a>
   <hr>
   <b>⚡Recent GitHub Activity</b>
