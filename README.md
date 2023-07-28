@@ -37,6 +37,9 @@ For more details You can reach me on various Platforms: 😎👌<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhireIghor&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p> <br/>
 <hr> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhireIghor" alt="Muhire Ighor" /></a> </p>
+
+
 <b>Top Languages 👩‍💻</b>
 <br /><br />
 
