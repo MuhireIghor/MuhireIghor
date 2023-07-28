@@ -5,7 +5,7 @@
     <br>
     </div>
     <hr>
-I am an experienced full stack developer with four years of expertise in web application development. Skilled in Reactjs, Nextjs, and Vuejs for front-end, and Nodejs and Spring Boot for back-end. I prioritize user experience, crafting dynamic and responsive interfaces. Continuously learning to stay updated with industry trends, I excel in problem-solving and attention to detail. With effective communication and collaboration skills, I contribute to positive work environments. My goal is to deliver cutting-edge web applications that leave a lasting impact on users and businesses alike, offering high-quality and tailored solutions for each project.
+I am an experienced full stack developer with four years of expertise in web and mobile application development. Skilled in Reactjs, Nextjs, and Vuejs for front-end, and Nodejs and Spring Boot for back-end and Flutter for mobile development. I prioritize user experience, crafting dynamic and responsive interfaces. Continuously learning to stay updated with industry trends, I excel in problem-solving and attention to detail. With effective communication and collaboration skills, I contribute to positive work environments. My goal is to deliver cutting-edge web applications that leave a lasting impact on users and businesses alike, offering high-quality and tailored solutions for each project.
 For more details You can reach me on various Platforms: 😎👌<br />
 <b>Linkedin:</b>https://linkedin.com/in/MuhireIghor<br />
 <b>Email:</b>muhireighor123@gmail.com<br />
