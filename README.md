@@ -7,16 +7,15 @@ For more details You can reach me on various Platforms: 😎👌<br />
 <br /><br /><br />
 <hr>
 <div >
-  <a style='margin-5px;' href="https://www.linkedin.com/in/MuhireIghor/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <p>Connect with me</p>
+  <hr />
+<a style='margin-5px;' href="https://www.linkedin.com/in/MuhireIghor/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a style='margin-5px;' href="https://www.facebook.com/ighor.muhire" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a style='margin-15px;' href="https://www.github.com/MuhireIghor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a style='margin:15px;' href="https://www.instagram.com/ighormuhire/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="32" height="32" /></a>
 </div>
 
 <br/>
-
-  <hr>
-
 
   <hr>
   <b>⚡Recent GitHub Activity</b>
