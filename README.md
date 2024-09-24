@@ -5,7 +5,7 @@ For more details You can reach me on various Platforms: 😎👌
 
 [Linkedin](https://linkedin.com/in/MuhireIghor)  | [Email](muhireighor123@gmail.com) 
 
-<b>Contacts: </b>+250791903113/+250798486619<br />
+<b>Contacts: </b>+250798486619<br />
 
 ## Connect with me
   <hr />
