@@ -1,6 +1,6 @@
 Hello Folks ,
 ## I am Muhire Ighor
-An experienced full stack & Devops 10x engineer  based in Rwanda. I prioritize user experience, crafting dynamic and responsive interfaces. Continuously learning to stay updated with industry trends, I excel in problem-solving and attention to detail. With effective communication and collaboration skills, I contribute to positive work environments. My goal is to deliver cutting-edge web applications that leave a lasting impact on users and businesses alike, offering high-quality and tailored solutions for each project.
+An experienced full stack & Devops 10x engineer  based in Rwanda. I prioritize user experience, crafting dynamic and responsive interfaces and as well well planned infrastructure on which platforms work on top of. Continuously learning to stay updated with industry trends, I excel in problem-solving and attention to detail. With effective communication and collaboration skills, I contribute to positive work environments. My goal is to deliver cutting-edge web applications that leave a lasting impact on users and businesses alike, offering high-quality and tailored solutions for each project.
 For more details You can reach me on various Platforms: 😎👌
 
 [Linkedin](https://linkedin.com/in/MuhireIghor)  | [Email](muhireighor123@gmail.com) 
